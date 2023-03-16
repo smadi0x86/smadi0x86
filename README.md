@@ -1,16 +1,54 @@
-### Hi there 👋
+#                                                                    
 
-<!--
-**smadi0x86/smadi0x86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://linkedin.com/in/saud-smadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smadi" height="25" width="25" /></a>
+<a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
+</p>
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75253629/204383670-fd7b5ed2-a1c8-46d8-982d-72b31baad305.png"/>
+<p align="center">Hello, I'm smadi <\> this is my internet space, feel free to look around!</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="maykbrito" /></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fffafa&left=true&width=435&lines=%24~+whoami;smadi0x01;%24~++exit;Enjoy+The+Movement!" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#                                                                    *Languages and tools*
+
+'<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C language" height="70" width="70" />
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+<img src="https://camo.githubusercontent.com/d692e3b8622529be32fbf598f71901854127ae2a64f653b9440d3e4d578ec3e9/68747470733a2f2f7777772e6e6179756b692e696f2f7265732f706167652d69636f6e2f36342f612d66756e64616d656e74616c2d696e74726f64756374696f6e2d746f2d7838362d617373656d626c792d70726f6772616d6d696e672e706e67" alt="asm" width="58" height="58"/>
+<img src="https://camo.githubusercontent.com/017232b055b969e3eb614662e9ef3f26d493002dbbe8cbf21914dec23cb12379/687474703a2f2f6a6f6e2e646568646172692e6f72672f696d616765732f6c6f676f732f626173682e706e67" alt="bash" width="85" height="85"/>
+
+
+# *Software development*
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![Sublime Text](https://img.shields.io/badge/-Sublime-e69138?style=for-the-badge&logo=sublime-text&logoColor=fff)
+
+
+# *Operating Systems*
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-DC143C?style=for-the-badge&logo=debian&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+
+
+# *Hosting/SaaS*
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+
+
+#                                                                     *STATS*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smadi0x01&langs_count=5&theme=dark)](https://github.com/extimative/github-readme-stats)]![Top Langs](https://github-readme-stats.vercel.app/api?username=smadi0x01&show_icons=true&theme=dark)
+
+<p align="left">
+<img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
