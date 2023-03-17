@@ -43,8 +43,8 @@
 
 #                                                                     *STATS*
 
-![smadi0x86 github stats](https://github-readme-stats.vercel.app/api?username=smadi0x86&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=6F7378&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smadi0x86&layout=compact&text_color=daf7dc&bg_color=6F7378)](https://github.com/smadi0x086/github-readme-stats)
+![smadi0x86 github stats](https://github-readme-stats.vercel.app/api?username=smadi0x86&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=000000&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smadi0x86&layout=compact&text_color=000000&bg_color=6F7378)](https://github.com/smadi0x086/github-readme-stats)
 
 <p align="left">
 <img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
