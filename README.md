@@ -5,7 +5,7 @@
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ca/26/3b/ca263bc4f990bba06fb7f56f0ffc5dd1.gif"/>
+<img align="right" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2dbf3a8e-319b-421d-aff1-7595f9d9e84f/d2qyf40-2a05256e-598c-448a-b2c1-44514f78ddc3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYmYzYThlLTMxOWItNDIxZC1hZmYxLTc1OTVmOWQ5ZTg0ZlwvZDJxeWY0MC0yYTA1MjU2ZS01OThjLTQ0OGEtYjJjMS00NDUxNGY3OGRkYzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2Ai8L7R_Thl218IuQ29P87t99GhKhiMhx_7K7aOtPJE"/>
 <p align="center">Hello, I'm smadi <\> this is my internet space, feel free to look around!</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="maykbrito" /></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fffafa&left=true&width=435&lines=%24~+whoami;smadi0x01;%24~++exit;Enjoy+The+Movement!" alt="Typing SVG" /></a>
