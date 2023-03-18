@@ -5,7 +5,7 @@
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/l41m1JTZ48qnyMo5G/200w.gif?cid=82a1493bnx7lv8vhttqflntgvqsocshro2eugg1w5nkqgqr8&rid=200w.gif&ct=s"/>
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/5fa0b5c639f38671ee83c407b25f6b13/tumblr_n8gb71pSid1r6zgh0o1_500.gif"/>
 <p align="center">Hello, I'm smadi <\> this is my internet space, feel free to look around!</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="maykbrito" /></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fffafa&left=true&width=435&lines=%24~+whoami;smadi0x01;%24~++exit;Enjoy+The+Movement!" alt="Typing SVG" /></a>
