@@ -53,15 +53,3 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-
-<div id="scroller">
-		<span id="static-text">News headlines: </span>
-		<div class="scrollingtext">
-			<div class="item"><i>Boston Herald</i> investigation shows United States behind in pizza quality</div>
-			<img src="conc.svg" alt="Concerto">
-			<div class="item">Less than half of Americans think orange juice tastes bad after brushing teeth, poll shows</div>
-			<img src="conc.svg" alt="Concerto">
-			<div class="item">Jackson to donate half of salary to Concerto development</div>
-		</div>
-	</div>
