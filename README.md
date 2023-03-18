@@ -53,5 +53,3 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-<p direction="right" scrollamount="17" behavior="scroll" Thanks for vising my profile, see you next time!</p>
