@@ -53,3 +53,5 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+<marquee class="sampleMarquee" direction="right" scrollamount="17" behavior="scroll">Thanks for vising my profile, see you next time!</marquee>
