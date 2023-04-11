@@ -8,7 +8,7 @@
 
 <img align="right" alt="pacino" src="https://l.top4top.io/p_2654odvp31.jpg"/>
 <p align="center">Hello, I'm smadi <\> this is my internet space, feel free to look around!</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="maykbrito" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="smadi0x86" /></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fffafa&left=true&width=435&lines=%24~+whoami;smadi0x01;%24~++exit;Enjoy+The+Movement!" alt="Typing SVG" /></a>
 
 
