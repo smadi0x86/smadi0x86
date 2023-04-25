@@ -1,9 +1,9 @@
 #                                                                    
 
 <p align="center">
-<a href="https://smadi0x86-blog.gitbook.io/smadi0x86-blog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="smadi" height="25" width="25" /></a>
 <a href="https://linkedin.com/in/saud-smadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smadi" height="25" width="25" /></a>
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
+ <a href="https://smadi0x86-blog.gitbook.io/smadi0x86-blog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="smadi" height="25" width="25" /></a>
 </p>
 
 <img align="right" alt="pacino" src="https://l.top4top.io/p_2654odvp31.jpg"/>
