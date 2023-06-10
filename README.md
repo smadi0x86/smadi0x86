@@ -6,12 +6,11 @@
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
 <a href="https://smadi0x86-blog.gitbook.io/smadi0x86-blog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/gitbook.svg" alt="smadi" height="25" width="25" /></a>
 </p>
-	![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 <img align="right" alt="pacino" src="https://l.top4top.io/p_2654odvp31.jpg"/>
 <p align="center">Hello, I'm smadi <\> this is my internet space, feel free to look around!</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="smadi0x86" /></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fffafa&left=true&width=435&lines=%24~+whoami;smadi0x86;%24~++exit;Enjoy+The+Movement!" alt="Typing SVG" /></a>
-
+![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 
 #                                                                    *Programming Languages*
 
