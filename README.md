@@ -60,7 +60,7 @@
 <img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
 </p>
 <p align="center">
-<a href="https://linkedin.com/in/saud-smadi" target="blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="smadi"/></a>
+<a href="https://www.buymeacoffee.com/smadixd" target="blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="smadi"/></a>
 </p>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
