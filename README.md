@@ -1,5 +1,8 @@
-#                                                                    
-
+#     
+<p align="center">
+<a href="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"
+</p>
+  
 <p align="center">
 <a href="https://linkedin.com/in/saud-smadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smadi" height="25" width="25" /></a>
 <a href="https://twitter.com/@smadi0x86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/twitter.svg" alt="smadi" height="25" width="25" /></a>
@@ -64,4 +67,3 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
