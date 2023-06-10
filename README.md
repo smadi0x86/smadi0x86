@@ -13,7 +13,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fffafa&left=true&width=435&lines=%24~+whoami;smadi0x86;%24~++exit;Enjoy+The+Movement!" alt="Typing SVG" /></a>
 
 
-#                                                                    *Languages and tools*
+#                                                                    *Programming Languages*
 
 '<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C language" height="70" width="70" />
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
