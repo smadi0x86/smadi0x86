@@ -10,7 +10,6 @@
 <p align="center">Hello, I'm smadi <\> this is my internet space, feel free to look around!</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="smadi0x86" /></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=fffafa&left=true&width=435&lines=%24~+whoami;smadi0x86;%24~++exit;Enjoy+The+Movement!" alt="Typing SVG" /></a>
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 
 #                                                                    *Programming Languages*
 
@@ -65,3 +64,4 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
