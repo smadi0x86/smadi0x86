@@ -1,10 +1,6 @@
 #     
   
 <p align="center">
-  <a href="https://linkedin.com/in/saud-smadi" onclick="window.open(this.href, '_blank'); return false;">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smadi" height="25" width="25" />
-</a>
-
 <a href="https://linkedin.com/in/saud-smadi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smadi" height="25" width="25" /></a>
 <a href="https://twitter.com/@smadi0x86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/twitter.svg" alt="smadi" height="25" width="25" /></a>
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
@@ -63,9 +59,11 @@
 <p align="left">
 <img src="https://github.com/sh1nine96/sh1nine96/blob/output/github-contribution-grid-snake.svg">
 </p>
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/smadixd" target="blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="smadi"/></a>
 </p>
 <p align="left">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
