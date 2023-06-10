@@ -26,6 +26,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![Sublime Text](https://img.shields.io/badge/-Sublime-e69138?style=for-the-badge&logo=sublime-text&logoColor=fff)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 
 
 # *Operating Systems*
