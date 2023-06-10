@@ -6,7 +6,7 @@
 <a href="https://t.me/rootsmadi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="smadi" height="25" width="25" /></a>
 <a href="https://smadi0x86-blog.gitbook.io/smadi0x86-blog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/gitbook.svg" alt="smadi" height="25" width="25" /></a>
 </p>
-
+	![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
 <img align="right" alt="pacino" src="https://l.top4top.io/p_2654odvp31.jpg"/>
 <p align="center">Hello, I'm smadi <\> this is my internet space, feel free to look around!</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smadi0x01" alt="smadi0x86" /></p>
@@ -47,8 +47,11 @@
 # *Technologies*
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 #                                                                     *STATS*
