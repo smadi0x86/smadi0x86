@@ -13,7 +13,7 @@
 
 #                                                                    *Programming Languages*
 
-![C language](https://img.shields.io/badge/Language-111C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C language](https://img.shields.io/badge/Language-111.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-111.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ASMx86](https://img.shields.io/badge/x86Asm-111?style=for-the-badge&logo=octave&logoColor=fcd683)
