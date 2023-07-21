@@ -13,11 +13,11 @@
 
 #                                                                    *Programming Languages*
 
-![C language](https://img.shields.io/badge/Language-111.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=ffdd54)
-![ASMx86](https://img.shields.io/badge/x86Asm-111?style=for-the-badge&logo=octave&logoColor=fcd683)
-![Java](https://img.shields.io/badge/java-111.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+'<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C language" height="70" width="70" />
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+<img src="https://camo.githubusercontent.com/d692e3b8622529be32fbf598f71901854127ae2a64f653b9440d3e4d578ec3e9/68747470733a2f2f7777772e6e6179756b692e696f2f7265732f706167652d69636f6e2f36342f612d66756e64616d656e74616c2d696e74726f64756374696f6e2d746f2d7838362d617373656d626c792d70726f6772616d6d696e672e706e67" alt="asm" width="58" height="58"/>
+<img src="https://camo.githubusercontent.com/017232b055b969e3eb614662e9ef3f26d493002dbbe8cbf21914dec23cb12379/687474703a2f2f6a6f6e2e646568646172692e6f72672f696d616765732f6c6f676f732f626173682e706e67" alt="bash" width="85" height="85"/>
 
 
 # *Software Development*
