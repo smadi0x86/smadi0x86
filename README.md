@@ -14,10 +14,10 @@
 #                                                                    *Programming Languages*
 
 ![C language](https://img.shields.io/badge/Language-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![ASMx86](https://img.shields.io/badge/x86Asm-111.svg?style=for-the-badge&logo=alfred)
 ![Java](https://img.shields.io/badge/java-111.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![ASMx86](https://img.shields.io/badge/x86Asm-111.svg?style=for-the-badge&logo=alfred)
 
 
 # *Software Development*
